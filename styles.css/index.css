@@ -214,3 +214,22 @@ margin-bottom: 15px;
   
     
 }
+.footer{
+    text-align: center;
+    background-color:#111010;
+    height: 300px;
+
+}
+.footer-tittle{
+    text-align: center;
+    padding-top: 70px;
+    color: #E55473;
+font-family: Lato;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.footer p{
+    color: rgba(255, 255, 255, 0.90);
+}

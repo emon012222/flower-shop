@@ -237,24 +237,25 @@ line-height: normal;
 
 .lily-flower{
     display: flex;
-    background-color: rgba(167, 33, 98, 0.15);
+    background-color: rgba(229, 84, 115, 0.05);
    height:400px;
 }
 .flower-pic{
 height: 350px;
- padding: 50px;
-margin-right: 60px;
+
+margin-right: 30px;
+margin-top: 20px;
 }
 .lily-tittle{
-    margin-top: 30px;
+   padding-left: 25;
+  margin-top: 25px;
     color: #272727;
     text-align: center;
     font-family: Lato;
     font-size: 30px;
     
     font-weight: 800;
-    margin-bottom: 15px;
 }
-.bold{
-  font-size: 5px; 
+.tittle-body{
+    padding-left: 25px;
 }

@@ -138,3 +138,79 @@ width: 200px;
 margin-top: 60px;
 padding-left: 150px;
 }
+.insta{
+    text-align: center;
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 30px;
+
+font-weight: 700px;
+
+}
+.insta-content{
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+}
+.flower{
+    display: flex;
+margin-left: 60px;
+margin-top: 30px;
+ 
+
+   
+}
+.flower-1{
+    padding: 0px 10px 10px 40px;
+    width: 250px;
+
+}
+.flower-2{
+    padding: 0px 10px 10px 10px;
+    width: 250px;}
+.flower-3{
+    padding: 0px 10px 10px 10px;
+    width: 250px;
+}
+.flower-4{
+    padding: 0px 40px 10px 10px;
+    width: 250px;
+}
+.email{
+    text-align: center;
+    background-image: url('../images/Rectangle\ 9.png');
+    height: 400px;
+    width: 1080px;
+    margin: 50px auto;
+    
+    
+}
+.email-body{
+  padding-top: 100px;
+}
+.email-tittle{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 30px;
+
+font-weight: 800;
+margin-bottom: 15px;
+
+}
+.email-text{
+    color: rgba(39, 39, 39, 0.60);
+    margin-bottom: 30px;
+
+}
+.email-body input{
+    height: 40px;
+    padding-left: 50px;
+    padding-right: 150px;
+    border-style: none;
+    
+}
+.email-body button{
+  
+    
+}

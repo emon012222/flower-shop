@@ -1,0 +1,55 @@
+/* header styles */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: rgba(229, 84, 115, 0.10);
+    
+    
+}
+
+
+
+
+.banner{
+    display: flex;
+    margin: 0 200px;
+    width: 1000px;
+    height: 800px;
+}
+
+.banner-content{
+        margin: auto 0;
+        padding-right: 100px;
+}
+
+.banner-tittle{
+    font-weight: bolder;
+    margin-bottom: 25px;
+    font-size: 40px;
+font-style: normal;
+font-weight: 400px;
+}
+
+.banner-text{
+    margin-bottom: 25px;
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.btn-common{
+    background-color:rgb(237, 91, 115);
+    font-size: 20px;
+    padding: 10px 15px;
+    color: aliceblue;
+    border: none;
+ 
+ 
+ }
+.profile-pic{
+ width: 500px;
+ margin: 20px 60px 0px 0px;
+}

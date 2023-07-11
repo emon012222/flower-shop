@@ -18,6 +18,7 @@ header{
     margin: 0 200px;
     width: 1000px;
     height: 800px;
+    
 }
 
 .banner-content{
@@ -72,6 +73,7 @@ font-weight: 700;
 }
 .image{
     display: flex;
+    
  
 }
 .image img{
@@ -210,10 +212,6 @@ margin-bottom: 15px;
     border-style: none;
     
 }
-.email-body button{
-  
-    
-}
 .footer{
     text-align: center;
     background-color:#111010;
@@ -232,4 +230,31 @@ line-height: normal;
 }
 .footer p{
     color: rgba(255, 255, 255, 0.90);
+}
+.change-color{
+    color: cyan;
+}
+
+.lily-flower{
+    display: flex;
+    background-color: rgba(167, 33, 98, 0.15);
+   height:400px;
+}
+.flower-pic{
+height: 350px;
+ padding: 50px;
+margin-right: 60px;
+}
+.lily-tittle{
+    margin-top: 30px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 30px;
+    
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+.bold{
+  font-size: 5px; 
 }

@@ -46,6 +46,7 @@ line-height: 30px;
     padding: 10px 15px;
     color: aliceblue;
     border: none;
+    
  
  
  }
@@ -105,4 +106,35 @@ font-weight: 700;
 .pic-tittle{
     text-align: center;
     text-decoration:underline;
+}
+.offer{
+    display: flex;
+   
+    background-color: rgba(229, 84, 115, 0.05);
+    margin: 100px 0px;
+    height: 400px;
+    width: auto; 
+    
+}
+.offer-content{
+
+text-align: center;
+margin-top: 150px;
+margin-left: 200px;
+
+}
+.offer-tittle{
+    margin-bottom: 20px;
+}
+.offer-text{
+    margin-bottom: 20px;
+
+    
+   
+}
+.offer-pic{
+width: 200px;
+
+margin-top: 60px;
+padding-left: 150px;
 }
